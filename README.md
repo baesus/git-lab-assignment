@@ -1,8 +1,8 @@
 What have you learned ?
 
-I have learned how to use Git for version control, specifically how to track changes, manage different versions of a project, and collaborate using branches.
+I have learned how to use Git for version control, specifically how to track changes, manage different versions of a project, and collaborate using branches.
 
-I now understand the importance of a professional workflow using GitHub, including creating repositories, pushing code, and managing Pull Requests.
+I now understand the importance of a professional workflow using GitHub, including creating repositories, pushing code, and managing Pull Requests.
 
 Challenges faced and how you overcame them :
 
