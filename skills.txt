@@ -1,0 +1,5 @@
+Skills:
+- PHP, MySQL, HTML, CSS, Bootstrap (Basic)
+- Problem solving & debugging
+- Communication & teamwork (volunteer experience)
+- Time management & responsibility
