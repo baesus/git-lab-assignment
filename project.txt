@@ -1,0 +1,2 @@
+Project: Food Ordering System
+Description: A simple web-based system that allows users to browse menu, place orders, and manage purchases.
