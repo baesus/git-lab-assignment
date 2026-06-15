@@ -2,4 +2,5 @@ Name : NURUL SYAFIKAH BINTI MOHAMAD NOORUL ALAM
 No. Matric : 251592001
 Course : DATA SCIENCE (AI)
 Hobbies : Watching Movies & Briswalk
-Position : Undergraduate Student (AI)
+Position: Data Science Student at UniMAP
+
